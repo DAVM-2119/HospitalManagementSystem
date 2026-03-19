@@ -189,10 +189,5 @@ Supporting Classes:
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
 
 > Built as a Java OOP learning project demonstrating inheritance, file persistence, and role-based system design.
